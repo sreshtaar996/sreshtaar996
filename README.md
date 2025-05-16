@@ -7,7 +7,7 @@ About Me
 
  🔨 Tech Stack  
 Languages: Python, Java, JavaScript, C, PHP, HTML/CSS  
-Frameworks & Tools: React.js, Django, TensorFlow, NumPy, MySQL, Git, Docker  
+Frameworks & Tools: React.js, Django, TensorFlow, NumPy, MySQL, Git, 
 Technologies: REST APIs, WebSockets, Microservices, Cloud Computing  
 
 🔗 Connect With Me  
